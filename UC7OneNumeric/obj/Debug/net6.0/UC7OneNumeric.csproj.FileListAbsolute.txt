@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\bin\Debug\net6.0\UC7OneNumeric.exe
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\bin\Debug\net6.0\UC7OneNumeric.deps.json
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\bin\Debug\net6.0\UC7OneNumeric.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\bin\Debug\net6.0\UC7OneNumeric.dll
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\bin\Debug\net6.0\UC7OneNumeric.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.dll
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\refint\UC7OneNumeric.dll
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\UC7OneNumeric.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day19\UC7OneNumeric\obj\Debug\net6.0\ref\UC7OneNumeric.dll

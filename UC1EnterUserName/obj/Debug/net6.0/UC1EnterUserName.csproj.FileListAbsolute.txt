@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\bin\Debug\net6.0\UC1EnterUserName.exe
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\bin\Debug\net6.0\UC1EnterUserName.deps.json
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\bin\Debug\net6.0\UC1EnterUserName.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\bin\Debug\net6.0\UC1EnterUserName.dll
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\bin\Debug\net6.0\UC1EnterUserName.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.dll
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\refint\UC1EnterUserName.dll
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\UC1EnterUserName.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day19\UC1EnterUserName\obj\Debug\net6.0\ref\UC1EnterUserName.dll

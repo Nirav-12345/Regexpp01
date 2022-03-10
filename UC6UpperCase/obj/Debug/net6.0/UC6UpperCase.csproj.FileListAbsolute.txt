@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\bin\Debug\net6.0\UC6UpperCase.exe
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\bin\Debug\net6.0\UC6UpperCase.deps.json
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\bin\Debug\net6.0\UC6UpperCase.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\bin\Debug\net6.0\UC6UpperCase.dll
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\bin\Debug\net6.0\UC6UpperCase.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.dll
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\refint\UC6UpperCase.dll
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\UC6UpperCase.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day19\UC6UpperCase\obj\Debug\net6.0\ref\UC6UpperCase.dll

@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\bin\Debug\net6.0\UC8SpecialCharcter.exe
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\bin\Debug\net6.0\UC8SpecialCharcter.deps.json
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\bin\Debug\net6.0\UC8SpecialCharcter.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\bin\Debug\net6.0\UC8SpecialCharcter.dll
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\bin\Debug\net6.0\UC8SpecialCharcter.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.dll
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\refint\UC8SpecialCharcter.dll
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.pdb
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\UC8SpecialCharcter.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day19\UC8SpecialCharcter\obj\Debug\net6.0\ref\UC8SpecialCharcter.dll
